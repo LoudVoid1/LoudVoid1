@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">𝐈'𝐦 <a href="https://linkfly.to/50408gMm6EU">𝐋𝐨𝐮𝐝 𝐕𝐨𝐢𝐝</a> 🌙</h1>
 </div>
-<img src="https://i.imgur.com/8jKIBxR.gif" 1980x1080>
+<img src="https://i.imgur.com/8jKIBxR.gif" 1920x1080>
 
 🥊[[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqriptXhuNjPPB_hJVHMr9w
 )](https://www.youtube.com/channel/UCqriptXhuNjPPB_hJVHMr9w)]🥊

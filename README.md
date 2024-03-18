@@ -8,7 +8,7 @@
 
 🔮[[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/eltioboss_)]🔮
 
-📞[[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/LoudVoid1)]📞
+📞[[![GitHub followers](https://img.shields.io/github/followers/LoudVoid1)]📞
 
 🐱‍👤[![Discord](https://img.shields.io/discord/1128535974423572581)]🐱‍👤
 

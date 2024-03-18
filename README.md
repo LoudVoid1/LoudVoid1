@@ -6,9 +6,9 @@
 🥊[[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqriptXhuNjPPB_hJVHMr9w
 )](https://www.youtube.com/channel/UCqriptXhuNjPPB_hJVHMr9w)]🥊
 
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/eltioboss_)
+🔮[[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/eltioboss_)]🔮
 
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/LoudVoid1)
+📞[[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/LoudVoid1)]📞
 
 🐱‍👤[![Discord](https://img.shields.io/discord/1128535974423572581)]🐱‍👤
 

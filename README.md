@@ -3,8 +3,8 @@
 </div>
 <img src="https://i.imgur.com/8jKIBxR.gif" 1980x1080>
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqriptXhuNjPPB_hJVHMr9w
-)](https://www.youtube.com/channel/UCqriptXhuNjPPB_hJVHMr9w)
+🧧[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqriptXhuNjPPB_hJVHMr9w
+)](https://www.youtube.com/channel/UCqriptXhuNjPPB_hJVHMr9w)🧧
 
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/eltioboss_)
 

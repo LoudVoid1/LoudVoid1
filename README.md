@@ -12,6 +12,8 @@
 
 🐱‍👤[![Discord](https://img.shields.io/discord/1128535974423572581)]🐱‍👤
 
+🔗[![LINKS](https://linkfly.to/50408gMm6EU)]🔗
+
 ## About me
 
 - 💻 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓 💻 

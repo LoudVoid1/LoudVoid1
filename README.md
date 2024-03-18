@@ -12,7 +12,7 @@
 
 🐱‍👤[![Discord](https://img.shields.io/discord/1128535974423572581)]🐱‍👤
 
-🔗[![LINKS](https://linkfly.to/50408gMm6EU)]🔗
+
 
 ## About me
 

@@ -10,7 +10,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/LoudVoid1)
 
-[![Discord](https://img.shields.io/discord/1128535974423572581)
+[![Discord](https://img.shields.io/discord/1128535974423572581)]
 
 ## About me
 

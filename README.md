@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">𝐈'𝐦 <a href="https://linkfly.to/50408gMm6EU">𝐋𝐨𝐮𝐝 𝐕𝐨𝐢𝐝</a> 🌙</h1>
 </div>
-<img src="[https://i.imgur.com/ZZqE9iY.mp4](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVtcW0wOXowcXF4emhseGdqdWUxbmRmNWU0M213bW93MG9sd2Z2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYz1H6iNT9oDfKU/giphy.gif)">
+<img src="[[https://i.imgur.com/ZZqE9iY.mp4](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVtcW0wOXowcXF4emhseGdqdWUxbmRmNWU0M213bW93MG9sd2Z2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYz1H6iNT9oDfKU/giphy.gif)](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ5ZjV0cXB1cWE2cWpjamZwcWNxOHA3encwMWxmNHBnZ290emh1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gmDwphaOWmfkY/giphy.gif)">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/channel/UCqriptXhuNjPPB_hJVHMr9w)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/eltioboss_)

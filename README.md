@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">𝐈'𝐦 <a href="https://linkfly.to/50408gMm6EU">𝐋𝐨𝐮𝐝 𝐕𝐨𝐢𝐝</a> 🌙</h1>
 </div>
-<img src="https://imgur.com/8jKIBxR">
+<img src="[https://imgur.com/8jKIBxR](https://i.imgur.com/8jKIBxR.gif)">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/channel/UCqriptXhuNjPPB_hJVHMr9w)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/eltioboss_)
